@@ -2,7 +2,7 @@
 ## İNDICE
 * [1. Intro](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#1-intro)
 * [2. Que construi](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. 0bietivo del_proyecto](https://github.com/AlidaRobles/clondegoogle/edit/main/README.md#3-objetivo-del-proyecto)
+* [3. 0bietivo del proyecto](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
@@ -18,5 +18,5 @@ En este proyecto me enfoqué en construin La clonación de 1a intenfaz de Google
 * **Main**: Sección del contenedor para los elementos centrales de 1a pagina
 * **Footer**: Sección que incluye hipervínculos a1 final de 1a página.
 
-## 3. Objetivo del Proyecto
+## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
