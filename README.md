@@ -14,7 +14,7 @@ En este proyecto, con los conocimientos de HTML Y CSS realicé la clonación de 
 
 En este proyecto me enfoqué en construin La clonación de 1a intenfaz de Google. Contiene las siguientes secciones:
 * **Header**: Sección qUe involucra 1a foto de mi perfi1 iconos y un menú con hipennculos.
-* **pain**: Sección del contenedor para los elementos centrales de 1a pagina
+* **Main**: Sección del contenedor para los elementos centrales de 1a pagina
 * **Footer**: Sección que incluye hipervínculos a1 final de 1a página,
 ##3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTAL5 y los estilos de CSS3.
