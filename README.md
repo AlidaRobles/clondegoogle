@@ -1,8 +1,8 @@
 # Clon de Google
 ## İNDICE
 * [1. Intro](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#1-intro)
-* [2. Que construi](#)
-* [3. 0bietivo del_proyecto](#)
+* [2. Que construi](https://github.com/AlidaRobles/clondegoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. 0bietivo del_proyecto](https://github.com/AlidaRobles/clondegoogle/edit/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
@@ -15,6 +15,7 @@ En este proyecto, con los conocimientos de HTML Y CSS realicé la clonación de 
 En este proyecto me enfoqué en construin La clonación de 1a intenfaz de Google. Contiene las siguientes secciones:
 * **Header**: Sección qUe involucra 1a foto de mi perfi1 iconos y un menú con hipennculos.
 * **Main**: Sección del contenedor para los elementos centrales de 1a pagina
-* **Footer**: Sección que incluye hipervínculos a1 final de 1a página,
-##3. Objetivo del Proyecto
-Aprender a utilizar las etiquetas estándar de HTAL5 y los estilos de CSS3.
+* **Footer**: Sección que incluye hipervínculos a1 final de 1a página.
+
+## 3. Objetivo del Proyecto
+Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
