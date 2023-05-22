@@ -1,7 +1,7 @@
 # Clon de Google
 ## İNDICE
 * [1. Intro](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#1-intro)
-* [2. Que construi](https://github.com/AlidaRobles/clondegoogle/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [2. Que construi](https://github.com/AlidaRobles/clondegoogle/blob/main/README.md#2-Que_construi)
 * [3. 0bietivo del_proyecto](https://github.com/AlidaRobles/clondegoogle/edit/main/README.md#3-objetivo-del-proyecto)
 
 ****
